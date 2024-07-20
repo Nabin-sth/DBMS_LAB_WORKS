@@ -8,7 +8,7 @@ show databases;
 | Database           |
 +--------------------+
 | assignment01       |
-| nabin             |
+| nabin              |
 | information_schema |
 | mysql              |
 | performance_schema |
