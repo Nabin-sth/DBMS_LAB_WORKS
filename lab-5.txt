@@ -22,7 +22,7 @@ mysql> show databases;
 | information_schema |
 | mysql              |
 | performance_schema |
-| nabin             |
+| nabin              |
 | sys                |
 +--------------------+
 5 rows in set (0.04 sec)
